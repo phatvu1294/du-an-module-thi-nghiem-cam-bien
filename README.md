@@ -26,12 +26,13 @@ Dự án bao gồm các module thí nghiệm cảm biến trong trường học,
 ### Tài liệu kỹ thuật
 [Tài liệu kỹ thuật](documents/Tai_Lieu_Ky_Thuat.pdf)
 
+### Đặt hàng bộ module thí nghiệm
+Vui lòng liên hệ tác giả
+
 ### Video demo module
 [https://www.youtube.com/watch?v=1NZY-7wHZak](https://www.youtube.com/watch?v=1NZY-7wHZak)
 
 [https://www.youtube.com/watch?v=DHiIE1lXe1g](https://www.youtube.com/watch?v=DHiIE1lXe1g)
 
-### Đặt hàng bộ module thí nghiệm
-Vui lòng liên hệ tác giả
-
+### Ảnh demo 1 module
 ![Dự án module thí nghiệm cảm biến](images/image-01.png)
