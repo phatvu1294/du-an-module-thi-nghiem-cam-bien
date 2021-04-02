@@ -4,8 +4,6 @@
 ### Giới thiệu
 Dự án bao gồm các module thí nghiệm cảm biến trong trường học, giúp sinh viên dễ dàng tiếp cận, hiểu được cách chuyển đổi tín hiệu trong các loại cảm biến.
 
-![Dự án module thí nghiệm cảm biến](images/image-01.png)
-
 ### Tính năng
 - Interface các module được in trên bền mặt tùy chọn (mica, nhựa, ...) bao bền qua năm tháng
 - Đầu jack kết nối chuẩn 4MM phù hợp với dây nối trong trường học
@@ -30,7 +28,10 @@ Dự án bao gồm các module thí nghiệm cảm biến trong trường học,
 
 ### Video demo module
 [https://www.youtube.com/watch?v=1NZY-7wHZak](https://www.youtube.com/watch?v=1NZY-7wHZak)
+
 [https://www.youtube.com/watch?v=DHiIE1lXe1g](https://www.youtube.com/watch?v=DHiIE1lXe1g)
 
 ### Đặt hàng bộ module thí nghiệm
 Vui lòng liên hệ tác giả
+
+![Dự án module thí nghiệm cảm biến](images/image-01.png)
