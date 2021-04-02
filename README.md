@@ -21,7 +21,7 @@ Dự án bao gồm các module thí nghiệm cảm biến trong trường học,
 - Module thí nghiệm cảm biến tiệm cận kim loại (Kim loại)
 - Module thí nghiệm đầu ra (Relay + còi báo)
 - Module thí nghiệm đo tốc độ động cơ encoder
-- Module nguồn (+-5VDC/+-15VDC)
+- Module nguồn (±5VDC / ±15VDC)
 
 ### Tài liệu kỹ thuật
 [Tài liệu kỹ thuật](documents/Tai_Lieu_Ky_Thuat.pdf)
