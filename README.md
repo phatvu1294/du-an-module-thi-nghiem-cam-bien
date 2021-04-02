@@ -9,7 +9,7 @@ Dự án bao gồm các module thí nghiệm cảm biến trong trường học,
 - Đầu jack kết nối chuẩn 4MM phù hợp với dây nối trong trường học
 - Kích thước chuẩn A4 tương thích với các giá đỡ
 
-### Danh sách các Module
+### Danh sách các module
 - Module thí nghiệm cảm biến từ trường (Hall)
 - Module thí nghiệm cảm biến hồng ngoại độc lập (1 Phát + 1 thu)
 - Module thí nghiệm cảm biến hồng ngoại phản xạ
