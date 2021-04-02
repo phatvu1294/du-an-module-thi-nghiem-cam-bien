@@ -2,7 +2,14 @@
 *Dự án module thí nghiệm cảm biến được thiết kế bởi Vũ Phát*
 
 ### Giới thiệu
-Dự án bao gồm các module thí nghiệm cảm biến trong trường học, giúp sinh viên dễ dàng tiếp cận, hiểu được cách chuyển đổi tín hiệu trong các loại cảm biến
+Dự án bao gồm các module thí nghiệm cảm biến trong trường học, giúp sinh viên dễ dàng tiếp cận, hiểu được cách chuyển đổi tín hiệu trong các loại cảm biến.
+
+![Dự án module thí nghiệm cảm biến](images/image-01.png)
+
+### Tính năng
+- Interface các module được in trên bền mặt tùy chọn (mica, nhựa, ...) bao bền qua năm tháng
+- Đầu jack kết nối chuẩn 4MM phù hợp với dây nối trong trường học
+- Kích thước chuẩn A4 tương thích với các giá đỡ
 
 ### Danh sách các Module
 - Module thí nghiệm cảm biến từ trường (Hall)
@@ -21,5 +28,9 @@ Dự án bao gồm các module thí nghiệm cảm biến trong trường học,
 ### Tài liệu kỹ thuật
 [Tài liệu kỹ thuật](documents/Tai_Lieu_Ky_Thuat.pdf)
 
-### Video demo module thí nghiệm đo tốc độ động cơ encoder
+### Video demo module
+[https://www.youtube.com/watch?v=1NZY-7wHZak](https://www.youtube.com/watch?v=1NZY-7wHZak)
+[https://www.youtube.com/watch?v=DHiIE1lXe1g](https://www.youtube.com/watch?v=DHiIE1lXe1g)
 
+### Đặt hàng bộ module thí nghiệm
+Vui lòng liên hệ tác giả
